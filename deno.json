@@ -9,6 +9,7 @@
     "@std/path": "jsr:@std/path@^1.0.4",
     "esbuild": "npm:esbuild@^0.23.1",
     "esbuild_deno_loader": "jsr:@luca/esbuild-deno-loader@^0.10.3",
+    "markdown-it": "npm:markdown-it@^14.1.0",
     "preact": "npm:preact@^10.23.2",
     "react": "npm:react@^18.3.1",
     "~/components/": "./components/",
